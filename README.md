@@ -131,6 +131,12 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## 📥 Dataset and Blender Files
+
+You can download the **dataset** and **Blender-generated files** used for this project from the following Google Drive link:
+
+🔗 [Download Dataset & Blender Files](https://drive.google.com/drive/folders/1UR0Zvt-pDl3-hhcbwaEaflszZgmO5AWc?usp=sharing)
+
 ## 📜 License
 
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it, provided that proper credit is given.
